@@ -1,1 +1,48 @@
-ррре
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Library by B.A.D</title>
+     <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+        }
+        h1 {
+            margin: 20px 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Добро пожаловать в нашу библиотеку!</h1>
+    </header>
+    <div class="container">
+        <p>Здесь вы можете найти широкий выбор книг по различным тематикам. Приходите к нам и погрузитесь в мир чтения!</p>
+        <p>Адрес: ул. Арбатская, д.52, г. Москва</p>
+        <p>Телефон: +7 (800) 555-35-35</p>
+    </div>
+    <footer>
+        <p>&copy; 1941 Библиотека. Все права защищены.</p>
+    </footer>
+</body>
+</html>
